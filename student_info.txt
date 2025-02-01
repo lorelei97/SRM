@@ -1,0 +1,7 @@
+Student: fff, AES: 60.0, Maths: 90.0, PE: 50.0, SD: 20.0
+Average Mark: 55.0, Result: congrats, you passed
+Student: aaa, AES: 20.0, Maths: 34.0, PE: 42.0, SD: 39.0, Average Mark: 33.75, Result: failed
+Student: bbb, AES: 79.0, Maths: 94.0, PE: 76.0, SD: 80.0, Average Mark: 82.25, Result: congrats, you passed
+Student: ccc, AES: 67.0, Maths: 74.0, PE: 69.0, SD: 77.0, Average Mark: 71.75, Result: congrats, you passed
+Student: eee, AES: 56.0, Maths: 87.0, PE: 35.0, SD: 75.0, Average Mark: 63.25, Result: congrats, you passed
+Student: www, AES: 87.0, Maths: 567.0, PE: 65.0, SD: 97.0, Average Mark: 204.0, Result: congrats, you passed
