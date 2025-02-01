@@ -16,6 +16,7 @@ public class Main {
         System.out.println("        1. Admin"); //password is admin000
         System.out.println("        2. Student");
         System.out.println("        3. Exit");
+        System.out.println(" any new?");
         char user = obj.next().charAt(0); //catch user input for option
         obj.nextLine();
 
